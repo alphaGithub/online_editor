@@ -1,0 +1,44 @@
+body {
+}
+div.listFacility
+{
+   position: fixed;
+    
+}
+ul
+{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+  
+   
+}
+#listMaterial
+{
+    width: auto;
+    margin-top: 10px;
+    background-color: #00b9f5;
+    float: left;
+    border-radius: 5px;
+    
+}
+#Material
+{
+   list-style-type: none;
+   display: inline-block;
+   
+}
+#item
+{
+   font-family: cursive;
+   text-decoration: none;
+   padding: 5px 15px 5px 15px;
+   border-radius: 5px;
+}
+#item:hover
+{
+    background-color: #0026ff;
+    color: #fff;
+    
+}
