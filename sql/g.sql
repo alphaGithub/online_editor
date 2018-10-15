@@ -1,0 +1,1 @@
+select firstName as studentName from university.student ;
